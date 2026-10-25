@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.calendarioturnos.twa",
+        "sha256_cert_fingerprints": ["C1:AE:CD:83:B2:0D:08:07:38:D4:6A:84:0B:95:B8:4C:06:AB:D7:BE:A4:56:A8:03:4D:28:C3:0A:71:07:43:C8"]
+      }
+    }]
