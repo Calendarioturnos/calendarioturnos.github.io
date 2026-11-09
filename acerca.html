@@ -9,7 +9,6 @@
 <meta name="description" content="Calendario de turnos: planifica tus jornadas de trabajo y descanso con turnos de día o noche, vacaciones y avisos automáticos. Gratis y sin registro.">
 <meta name="theme-color" content="#c4571a">
 <link rel="icon" href="icon-192.png">
-<!-- Pega aquí el código de Google AdSense cuando te lo asignen -->
 <style>
 :root{--bg:#f6f4ef;--card:#fff;--tx:#1d1d1b;--mut:#6b6a64;--bd:#ddd9cf;--ac:#c4571a;
 box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:only light}
@@ -27,6 +26,13 @@ h1{font-size:20px;margin:4px 0 2px}
 .card li{font-size:14px;line-height:1.55;margin-bottom:6px}
 .top{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
 .top a{font-size:14px;color:var(--ac);text-decoration:none;font-weight:600}
+.card label{display:block;font-size:13px;color:var(--mut);margin:0 0 10px}
+.card input,.card textarea{display:block;width:100%;margin-top:4px;padding:10px;border:1px solid var(--bd);border-radius:10px;background:var(--bg);color:var(--tx);font:inherit;font-size:14px}
+.card button{background:var(--ac);color:#fff;border:0;border-radius:10px;padding:10px 16px;font-size:14px;font-weight:600;cursor:pointer;width:100%}
+.card .nota{font-size:12px;color:var(--mut);margin:10px 0 0}
+#gracias p{color:var(--ac);font-weight:600}
+#error-envio{color:#b3261e;font-size:13px;font-weight:600}
+.card a.donar{display:inline-block;background:var(--ac);color:#fff;padding:10px 16px;border-radius:10px;text-decoration:none;font-weight:600;font-size:14px}
 footer{text-align:center;color:var(--mut);font-size:12px;margin:18px 0 8px;padding-top:12px;border-top:1px solid var(--bd)}
 </style>
 </head>
@@ -58,13 +64,56 @@ footer{text-align:center;color:var(--mut);font-size:12px;margin:18px 0 8px;paddi
 
 <div class="card">
 <h2>¿Cuánto cuesta?</h2>
-<p>Es gratis. El sitio se mantiene con publicidad discreta, que ayuda a cubrir los costos de hosting y a seguir mejorando la herramienta.</p>
+<p>Es gratis, sin publicidad y sin registro.</p>
+<p>Si la app te resulta útil y quieres apoyar su desarrollo, puedes hacerlo con una donación voluntaria:</p>
+<p><a class="donar" href="https://www.paypal.me/DixonCortes" target="_blank" rel="noopener noreferrer">☕ Apoyar esta app (donación voluntaria)</a></p>
 </div>
 
 <div class="card">
 <h2>Contacto</h2>
-<p>¿Tienes una sugerencia o encontraste un problema? Escríbeme y con gusto lo reviso.</p>
-<!-- Escribe aquí tu correo real antes de publicar, por ejemplo: <p>correo@ejemplo.com</p> -->
+<p>¿Tienes una sugerencia o encontraste un problema? Déjame tu comentario y me llega directo al correo.</p>
+<form id="form-contacto" action="https://formsubmit.co/DixonCortes@outlook.cl" method="POST">
+<input type="hidden" name="_subject" value="Comentario desde Calendario de turnos">
+<input type="hidden" name="_template" value="table">
+<input type="hidden" name="_next" value="https://calendarioturnos.github.io/acerca.html?enviado=1">
+<input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+<label>Tu nombre (opcional)
+<input type="text" name="nombre" autocomplete="name">
+</label>
+<label>Tu correo (opcional, por si quieres respuesta)
+<input type="email" name="correo" autocomplete="email">
+</label>
+<label>Comentario o sugerencia
+<textarea name="mensaje" rows="4" required placeholder="Escribe aquí tu comentario o la mejora que propones..."></textarea>
+</label>
+<button type="submit">Enviar comentario</button>
+<p class="nota">Al enviar, tu mensaje viaja a través del servicio FormSubmit hasta mi correo. Solo se usa para leerlo y responderte.</p>
+<p id="error-envio" hidden>No se pudo enviar. Revisa tu conexión e inténtalo de nuevo.</p>
+</form>
+<div id="gracias" hidden>
+<p>¡Gracias! Tu comentario fue enviado.</p>
+</div>
+<script>
+if(new URLSearchParams(location.search).has("enviado")){var g0=document.getElementById("gracias");if(g0){g0.hidden=false;g0.scrollIntoView({block:"center"})}}
+var fc=document.getElementById("form-contacto");
+if(fc&&window.fetch){
+  fc.addEventListener("submit",function(ev){
+    ev.preventDefault();
+    var btn=fc.querySelector("button[type=submit]");
+    var err=document.getElementById("error-envio");
+    var gr=document.getElementById("gracias");
+    if(err)err.hidden=true;
+    if(btn){btn.disabled=true;btn.textContent="Enviando..."}
+    var data={_subject:"Comentario desde Calendario de turnos",_template:"table",_captcha:"false"};
+    new FormData(fc).forEach(function(v,k){if(k!=="_honey"&&k!=="_next"&&k!=="_subject"&&k!=="_template")data[k]=v});
+    fetch("https://formsubmit.co/ajax/DixonCortes@outlook.cl",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify(data)})
+    .then(function(r){if(!r.ok)throw new Error("http "+r.status);return r.json()})
+    .then(function(){fc.reset();if(gr){gr.hidden=false;gr.scrollIntoView({block:"center"})}})
+    .catch(function(){if(err)err.hidden=false})
+    .finally(function(){if(btn){btn.disabled=false;btn.textContent="Enviar comentario"}});
+  });
+}
+</script>
 </div>
 
 <footer>© 2026 Derechos reservados.<br>by Dixon Cortés</footer>
