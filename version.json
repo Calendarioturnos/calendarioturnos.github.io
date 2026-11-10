@@ -1,0 +1,16 @@
+{
+  "apk": {
+    "version": "1.64",
+    "code": 74,
+    "url": "https://github.com/DevPort2/DevPort2.github.io/releases/latest/download/WenuTV-Android.apk",
+    "notes": "NUEVO: la app avisa sola cuando hay una versión nueva y te cuenta qué trae, como en este mensaje. Esta es la última versión que se instala a mano; las próximas llegan con aviso."
+  },
+  "tv": {
+    "version": "2.3.6",
+    "notes": "Versión actual para TV LG webOS (candidato _18)."
+  },
+  "kodi": {
+    "version": "1.1.1",
+    "notes": "Versión actual del complemento para Kodi."
+  }
+}
