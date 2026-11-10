@@ -1,4 +1,9 @@
 {
+  "version": "1.64",
+  "releaseDate": "10/11/2026",
+  "changelog": "NUEVO: la app avisa sola cuando hay una versión nueva y te cuenta qué trae, como en este mensaje. Esta es la última versión que se instala a mano; las próximas llegan con aviso.",
+  "apkUrl": "https://github.com/DevPort2/DevPort2.github.io/releases/latest/download/WenuTV-Android.apk",
+  "ipkUrl": "https://github.com/DevPort2/DevPort2.github.io/releases/latest/download/WenuTV-TV-LG.ipk",
   "apk": {
     "version": "1.64",
     "code": 74,
