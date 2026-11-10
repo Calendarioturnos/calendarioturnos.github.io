@@ -1,14 +1,14 @@
 {
-  "version": "1.69",
+  "version": "1.70",
   "releaseDate": "10/11/2026",
-  "changelog": "Nuevo hogar: WenuTV se mudó a GitLab. Las descargas y el respaldo de conexión (sesiones) ahora viven aquí; todo lo demás funciona igual que en la 1.68",
+  "changelog": "La ficha de las películas ahora muestra la fecha de estreno y el país, igual que las series (antes no salían). También quedaron reparadas las descargas de la página y el botón «Actualizar ahora».",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.69",
-    "code": 79,
+    "version": "1.70",
+    "code": 80,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Nuevo hogar: WenuTV se mudó a GitLab. Las descargas y el respaldo de conexión (sesiones) ahora viven aquí; todo lo demás funciona igual que en la 1.68"
+    "notes": "La ficha de las películas ahora muestra la fecha de estreno y el país, igual que las series (antes no salían). También quedaron reparadas las descargas de la página y el botón «Actualizar ahora»."
   },
   "tv": {
     "version": "2.3.6",
