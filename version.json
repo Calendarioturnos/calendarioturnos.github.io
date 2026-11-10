@@ -1,14 +1,14 @@
 {
-  "version": "1.64",
+  "version": "1.67",
   "releaseDate": "10/11/2026",
-  "changelog": "NUEVO: la app avisa sola cuando hay una versión nueva y te cuenta qué trae, como en este mensaje. Esta es la última versión que se instala a mano; las próximas llegan con aviso.",
+  "changelog": "Los botones de la barra al ver una película ya funcionan al tacto: Salir, Pausa/Play, -10s, +10s y Ajustes.\nEl Modo Fluido ahora es automático de verdad: si una película se queda pegada al inicio, la app cambia sola y reintenta.\nEn los ajustes del reproductor, deslizar el dedo ya no cambia las opciones: cambian solo al presionar el botón.\nLa app avisa sola cuando hay una versión nueva y te cuenta qué trae.",
   "apkUrl": "https://github.com/DevPort2/DevPort2.github.io/releases/latest/download/WenuTV-Android.apk",
   "ipkUrl": "https://github.com/DevPort2/DevPort2.github.io/releases/latest/download/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.64",
-    "code": 74,
+    "version": "1.67",
+    "code": 77,
     "url": "https://github.com/DevPort2/DevPort2.github.io/releases/latest/download/WenuTV-Android.apk",
-    "notes": "NUEVO: la app avisa sola cuando hay una versión nueva y te cuenta qué trae, como en este mensaje. Esta es la última versión que se instala a mano; las próximas llegan con aviso."
+    "notes": "Los botones de la barra al ver una película ya funcionan al tacto: Salir, Pausa/Play, -10s, +10s y Ajustes.\nEl Modo Fluido ahora es automático de verdad: si una película se queda pegada al inicio, la app cambia sola y reintenta.\nEn los ajustes del reproductor, deslizar el dedo ya no cambia las opciones: cambian solo al presionar el botón.\nLa app avisa sola cuando hay una versión nueva y te cuenta qué trae."
   },
   "tv": {
     "version": "2.3.6",
