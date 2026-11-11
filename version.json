@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "2.4.4",
-    "notes": "Destacados recupera el mosaico grande de arriba, como en Hydra: esa sección parte con los títulos destacados en grande y debajo siguen las filas en el orden exacto del portal, con Seguir viendo, Mis favoritos y Mis descargas. Películas, Series, Anime y Novelas quedan sin mosaico, como en la 2.4.2. Incluye el Modo fluido automático y los iconos superiores completos de la 2.4.3."
+    "version": "1.87",
+    "notes": "Un solo número: desde este release la app de TV lleva el mismo número que el release. La 1.87 es la misma app que la 2.4.4 (catálogo como Hydra, Modo fluido automático, iconos superiores) — solo cambia el número. IMPORTANTE: esta única vez la instalación es manual (instala el IPK encima), porque el número nuevo se lee como menor que el anterior y la actualización automática no la ofrece. Desde la 1.88 las actualizaciones vuelven a llegar solas."
   },
   "kodi": {
     "version": "1.1.3",
