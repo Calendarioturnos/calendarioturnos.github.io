@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "1.92",
-    "notes": "Modo fluido reforzado: el relé interno ahora junta unos 4 segundos de señal antes de partir y después la entrega a ritmo constante (el mismo truco del reproductor de Hydra, aplicado desde nuestro servicio). Esto debiera terminar con los «se apura y pega saltos» cuando la señal llega a tirones. Pruébalo con Fluido: Sí en el menú de OK largo. Incluye todo lo de la 1.90 y la 1.91: pantalla completa arreglada, el Fluido que respeta tu mano, el actualizador reparado (con cancelar y avance en MB) y la señal sin desfase."
+    "version": "1.93",
+    "notes": "El método de Cristian para el directo. Revisamos su port original: (1) la señal directa vuelve a cargar por la tubería HLS dedicada de LG (la opción mediaOption que él usa), que administra su propia reserva y sincronía — en la 1.90 la habíamos simplificado y eso empeoraba la fluidez; la ruta del relé (Fluido y addons) sigue con la carga simple. (2) Borde CDN fijo: nuestro resolvedor rotaba la IP del servidor en cada pedido y dos pedazos seguidos podían venir de bordes con tiempos distintos; ahora la IP queda fija y solo rota si el borde falla de verdad. Se mantiene el colchón anti-tirones del Fluido (1.92) y el actualizador reparado (1.91)."
   },
   "kodi": {
     "version": "1.1.3",
