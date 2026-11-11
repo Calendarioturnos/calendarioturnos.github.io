@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "1.94",
-    "notes": "Favoritos reparados: los canales agregados se guardaban bien, pero la lista de ★ Favoritos no los mostraba — si el catálogo aún se estaba cargando, sus canales pisaban la lista de favoritos. Ahora la vista espera el catálogo (o usa lo ya cargado) y corta la carga en vuelo; 🔔 Reservas tenía el mismo problema y quedó igual de corregido. Para agregar un canal: ábrelo en pantalla completa, mantén OK y elige Fav; o con la flecha izquierda abre la lista de canales y usa el botón ★ Favorito."
+    "version": "1.95",
+    "notes": "Atajo al botón ★ Favorito del panel de canales: antes solo se alcanzaba bajando hasta el último canal de la lista (con cientos de canales, imposible). Ahora: mirando un canal, Izquierda abre la lista, buscas el canal con las flechas e Izquierda otra vez te deja sobre «★ Favorito»; OK lo marca y Arriba vuelve a la lista. La ayuda al pie del panel ya lo indica."
   },
   "kodi": {
     "version": "1.1.3",
