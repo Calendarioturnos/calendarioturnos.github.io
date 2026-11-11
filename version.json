@@ -12,7 +12,7 @@
   },
   "tv": {
     "version": "2.3.6",
-    "notes": "Versión actual para TV LG webOS (candidato _20, con fecha de estreno en la ficha de películas)."
+    "notes": "Versión para TV LG webOS que ya funciona en televisores reales (probada en una LG OLED C5): abre, cargan los canales en vivo y reproducen películas y series. La previa de los canales se escucha, el puntero del control se ve y los botones de la ficha salen completos."
   },
   "kodi": {
     "version": "1.1.3",
