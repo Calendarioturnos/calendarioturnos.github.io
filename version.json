@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "1.98",
-    "notes": "Favoritos completos: la lista de ★ Favoritos solo mostraba los canales guardados que estuvieran en la primera parte del catálogo (unos 20 de 557), por eso salía incompleta. Ahora se arma con el catálogo entero, y cada favorito conserva una copia de sus datos al guardarlo, así aparecen todos siempre. Reservas usa la misma corrección. Incluye lo de la 1.97 (volver a las categorías desde el botón ★ Favorito) y el colchón HLS de la 1.96 contra las caídas de la señal."
+    "version": "1.99",
+    "notes": "Estrella por fila, como la app original: cada canal muestra su ☆ en la lista del inicio y en la del reproductor; con → sobre la fila llegas a su estrella y OK la prende o apaga en el lugar («★ Canal añadido a favoritos»). Tus favoritos actuales se conservan. Incluye la 1.98 (lista de ★ Favoritos completa) y el colchón HLS de la 1.96 contra las caídas de la señal."
   },
   "kodi": {
     "version": "1.1.3",
