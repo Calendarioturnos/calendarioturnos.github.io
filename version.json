@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "2.4.0",
-    "notes": "Paridad con Hydra: menú con OK largo (Favorito, Filtrar, Anterior, Bloquear, Guía EPG), bloqueo de canales con PIN y control parental real, guía EPG completa con reservas 🔔, Reproductor que cambia la línea del CDN (1-4), HD con los datos reales de la señal, número de canal gigante al zapear, velocidad de descarga en pantalla, Descargar en la ficha para ver sin conexión (fila «Mis descargas»), Feedback funcional y reconexión automática si la señal se pega o el audio se desfasa. Compartir ahora muestra el QR de WenuTV en GitLab."
+    "version": "2.4.1",
+    "notes": "Fluidez en vivo: nuevo «Modo fluido» para canales (OK largo → Fluido: Sí) que entrega la señal como flujo continuo y aguanta mucho mejor las rutas inestables del CDN, sobre todo en los canales nacionales. El vigilante ahora también re-sincroniza tras varias micro-pegadas, que eran las que dejaban el audio desfasado. La velocidad de descarga se muestra solo al partir el canal, como en Hydra."
   },
   "kodi": {
     "version": "1.1.3",
