@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "2.4.2",
-    "notes": "El catálogo como Hydra: Películas, Series, Destacados, Anime y Novelas ahora se muestran en el orden exacto del portal — las filas y los títulos ya no se reordenan, así que los estrenos y las filas nuevas (como «2026») aparecen arriba, tal como el portal las presenta. Fuera el mosaico grande inicial y las filas «más vistos»; la fila «Tráiler» va con tarjetas horizontales, como en Hydra. En Destacados se mantienen arriba Seguir viendo, Mis favoritos y Mis descargas."
+    "version": "2.4.3",
+    "notes": "Modo fluido automático: si un canal en vivo se pega varias veces, la app activa sola el Modo fluido y avisa en pantalla (queda activado; se apaga en el menú de OK largo). Barra superior completa como Hydra: buscar, filtro (abre Explorar), historial, perfil y la campana, que ahora busca actualizaciones. Y todo se maneja con el control normal: los iconos superiores se alcanzan con flecha arriba desde la pestaña TV; el puntero es un extra."
   },
   "kodi": {
     "version": "1.1.3",
