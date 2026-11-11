@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "1.91",
-    "notes": "Actualizador reparado y señal sin desfase. (1) La descarga de actualizaciones quedaba pegada en «Iniciando descarga…»: encontramos la causa y la arreglamos. Ahora verás el avance en MB, podrás cancelar la descarga con el botón o con Atrás, y si la señal se congela 30 segundos cortará sola con un aviso en vez de quedarse pegada. (2) Desfase audio/imagen: la señal ya no mezcla pedazos de dos líneas CDN distintas a mitad de la reproducción (eso separaba el audio de la imagen); si una línea cae, el cambio queda marcado para que el reproductor re-sincronice."
+    "version": "1.92",
+    "notes": "Modo fluido reforzado: el relé interno ahora junta unos 4 segundos de señal antes de partir y después la entrega a ritmo constante (el mismo truco del reproductor de Hydra, aplicado desde nuestro servicio). Esto debiera terminar con los «se apura y pega saltos» cuando la señal llega a tirones. Pruébalo con Fluido: Sí en el menú de OK largo. Incluye todo lo de la 1.90 y la 1.91: pantalla completa arreglada, el Fluido que respeta tu mano, el actualizador reparado (con cancelar y avance en MB) y la señal sin desfase."
   },
   "kodi": {
     "version": "1.1.3",
