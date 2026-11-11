@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "1.90",
-    "notes": "Dos arreglos importantes. (1) Pantalla completa: la señal en vivo ahora se carga igual que la vista previa (que sí funciona); si el Modo fluido no responde en tu TV, la app pasa sola a la señal directa en vez de quedar en «código 4». Además, si apagas el Modo fluido a mano, la app ya NO lo vuelve a encender sola (antes el automático lo reactivaba a los pocos segundos), y el vigilante espera 12 segundos al sintonizar antes de intervenir. (2) Navegación: al mantener Abajo, el foco ya no salta de los botones Todos/Favoritos/Buscar a la lista; ahora se queda en los botones."
+    "version": "1.91",
+    "notes": "Actualizador reparado y señal sin desfase. (1) La descarga de actualizaciones quedaba pegada en «Iniciando descarga…»: encontramos la causa y la arreglamos. Ahora verás el avance en MB, podrás cancelar la descarga con el botón o con Atrás, y si la señal se congela 30 segundos cortará sola con un aviso en vez de quedarse pegada. (2) Desfase audio/imagen: la señal ya no mezcla pedazos de dos líneas CDN distintas a mitad de la reproducción (eso separaba el audio de la imagen); si una línea cae, el cambio queda marcado para que el reproductor re-sincronice."
   },
   "kodi": {
     "version": "1.1.3",
