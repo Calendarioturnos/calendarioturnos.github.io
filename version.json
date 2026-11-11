@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "1.97",
-    "notes": "Volver arriba en el panel de canales: tras usar el botón «★ Favorito» no se podía subir a las categorías (★ Favoritos, Chile, Deportes…) porque una rama especial del teclado se tragaba la flecha izquierda sobre el botón. Ahora, sobre el botón, Izquierda salta directo a las categorías; con ←/→ eliges, OK cambia y Abajo vuelve a la lista. Incluye el colchón HLS de la 1.96 contra las caídas de la señal."
+    "version": "1.98",
+    "notes": "Favoritos completos: la lista de ★ Favoritos solo mostraba los canales guardados que estuvieran en la primera parte del catálogo (unos 20 de 557), por eso salía incompleta. Ahora se arma con el catálogo entero, y cada favorito conserva una copia de sus datos al guardarlo, así aparecen todos siempre. Reservas usa la misma corrección. Incluye lo de la 1.97 (volver a las categorías desde el botón ★ Favorito) y el colchón HLS de la 1.96 contra las caídas de la señal."
   },
   "kodi": {
     "version": "1.1.3",
