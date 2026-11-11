@@ -11,7 +11,7 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "2.3.8",
+    "version": "2.3.9",
     "notes": "Versión para TV LG webOS que ya funciona en televisores reales (probada en una LG OLED C5) y se actualiza sola desde la app: abre, cargan los canales en vivo y reproducen películas y series. Trae el menú de la izquierda completo, los botones Todos, Favoritos y Buscar bajo la previa, todo manejable con el control normal además del puntero, y los canales de Chile primero."
   },
   "kodi": {
