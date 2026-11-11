@@ -11,8 +11,8 @@
     "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
   },
   "tv": {
-    "version": "1.88",
-    "notes": "Arreglado el menú de OK largo del reproductor: al mantener presionado OK, el menú se cerraba solo al soltar el botón (la repetición automática del control activaba la primera opción sin querer). Ahora el menú se abre y se queda abierto para navegarlo con calma con las flechas. Sin otros cambios: es la misma app 1.87 con ese arreglo."
+    "version": "1.89",
+    "notes": "Navegación del inicio rehecha según el mapa de la pantalla, todo con el control normal: desde el menú izquierdo, Derecha ahora entra a la vista previa (antes saltaba directo a la lista); desde la vista previa, Abajo baja a los botones Todos/Favoritos/Buscar y Arriba sube a los iconos de arriba a la derecha; desde la primera fila de la lista, Arriba también llega a los iconos; y desde los iconos, Abajo vuelve a la vista previa. Detalle: en la vista previa, Arriba/Abajo ya no cambian de canal (ahora mueven el foco); el zapping sigue con CH+/CH- y eligiendo el canal en la lista. Incluye el arreglo del menú de OK largo de la 1.88."
   },
   "kodi": {
     "version": "1.1.3",
