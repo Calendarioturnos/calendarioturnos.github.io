@@ -1,14 +1,14 @@
 {
-  "version": "1.74",
+  "version": "1.75",
   "releaseDate": "14/11/2026",
-  "changelog": "El héroe ahora se arma como en Xuper: los títulos se puntúan por fila (estrenos de cine y top arriba) y rotan cada día, así Película muestra La Odisea y La Mangosta; Sobre nosotros ya dice WenuTV.",
+  "changelog": "El servicio ahora enriquece cada raíz con búsquedas del portal (como la app original), así el héroe puntuado de Película muestra La Odisea y La Mangosta como en Xuper.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.74",
-    "code": 84,
+    "version": "1.75",
+    "code": 85,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "El héroe ahora se arma como en Xuper: los títulos se puntúan por fila (estrenos de cine y top arriba) y rotan cada día, así Película muestra La Odisea y La Mangosta; Sobre nosotros ya dice WenuTV."
+    "notes": "El servicio ahora enriquece cada raíz con búsquedas del portal (como la app original), así el héroe puntuado de Película muestra La Odisea y La Mangosta como en Xuper."
   },
   "tv": {
     "version": "1.99",
