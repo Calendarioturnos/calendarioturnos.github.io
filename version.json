@@ -1,14 +1,14 @@
 {
-  "version": "1.73",
+  "version": "1.74",
   "releaseDate": "14/11/2026",
-  "changelog": "Cada sección usa su propia lista del portal, como Xuper: Película arranca con Resident Evil y La Odisea; una película ya no sale como serie \"Temporada 1\" en su ficha.",
+  "changelog": "El héroe ahora se arma como en Xuper: los títulos se puntúan por fila (estrenos de cine y top arriba) y rotan cada día, así Película muestra La Odisea y La Mangosta; Sobre nosotros ya dice WenuTV.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.73",
-    "code": 83,
+    "version": "1.74",
+    "code": 84,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Cada sección usa su propia lista del portal, como Xuper: Película arranca con Resident Evil y La Odisea; una película ya no sale como serie \"Temporada 1\" en su ficha."
+    "notes": "El héroe ahora se arma como en Xuper: los títulos se puntúan por fila (estrenos de cine y top arriba) y rotan cada día, así Película muestra La Odisea y La Mangosta; Sobre nosotros ya dice WenuTV."
   },
   "tv": {
     "version": "1.99",
