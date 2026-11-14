@@ -1,14 +1,14 @@
 {
-  "version": "1.72",
+  "version": "1.73",
   "releaseDate": "14/11/2026",
-  "changelog": "El héroe y las secciones siguen el orden del portal, como Xuper: La Odisea sale arriba en Película; antes el orden por fecha la enterraba aunque estuviera en el catálogo y saliera en la búsqueda.",
+  "changelog": "Cada sección usa su propia lista del portal, como Xuper: Película arranca con Resident Evil y La Odisea; una película ya no sale como serie \"Temporada 1\" en su ficha.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.72",
-    "code": 82,
+    "version": "1.73",
+    "code": 83,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "El héroe y las secciones siguen el orden del portal, como Xuper: La Odisea sale arriba en Película; antes el orden por fecha la enterraba aunque estuviera en el catálogo y saliera en la búsqueda."
+    "notes": "Cada sección usa su propia lista del portal, como Xuper: Película arranca con Resident Evil y La Odisea; una película ya no sale como serie \"Temporada 1\" en su ficha."
   },
   "tv": {
     "version": "1.99",
