@@ -1,14 +1,14 @@
 {
-  "version": "1.76",
+  "version": "1.77",
   "releaseDate": "14/11/2026",
-  "changelog": "El héroe se calcula igual que en Xuper (clave de título corregida: «La Odisea (2026)» ya se reconoce como «La Odisea» y no se duplica) y Película ya no mezcla novelas; el servicio enriquece cada raíz con búsquedas del portal como la app original.",
+  "changelog": "El héroe ya no se calcula en local: WenuTV pide al portal el banner curado (getRecommends, como Guardian/Xuper Android) y Película arranca con La Mangosta y La Odisea en el orden del servidor; si el portal no lo entrega, queda el héroe calculado de la 1.76.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.76",
-    "code": 86,
+    "version": "1.77",
+    "code": 87,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "El héroe se calcula igual que en Xuper (clave de título corregida: «La Odisea (2026)» ya se reconoce como «La Odisea» y no se duplica) y Película ya no mezcla novelas; el servicio enriquece cada raíz con búsquedas del portal como la app original."
+    "notes": "El héroe ya no se calcula en local: WenuTV pide al portal el banner curado (getRecommends, como Guardian/Xuper Android) y Película arranca con La Mangosta y La Odisea en el orden del servidor; si el portal no lo entrega, queda el héroe calculado de la 1.76."
   },
   "tv": {
     "version": "1.99",
