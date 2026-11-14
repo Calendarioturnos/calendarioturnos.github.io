@@ -1,18 +1,18 @@
 {
-  "version": "1.78",
+  "version": "1.83",
   "releaseDate": "14/11/2026",
-  "changelog": "Corrección a la 1.77: el método getRecommends no estaba registrado como servicio (index.js) y el front caía al héroe calculado; ahora sí llega al portal y Película arranca con el banner curado (La Mangosta y La Odisea en el orden del servidor).",
+  "changelog": "Categorías del inicio iguales a las del explorador; la pantalla gira bien de vertical a horizontal; la campana avisa de actualizaciones; el toque en Configuración ya desplaza sin mover el cuadro de foco; estrella por fila en los canales en vivo; el número del inicio ya avanza con cada versión. Limpieza interna: sin diagnóstico de secciones.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.78",
-    "code": 88,
+    "version": "1.83",
+    "code": 137,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Corrección a la 1.77: el método getRecommends no estaba registrado como servicio (index.js) y el front caía al héroe calculado; ahora sí llega al portal y Película arranca con el banner curado (La Mangosta y La Odisea en el orden del servidor)."
+    "notes": "Categorías del inicio iguales a las del explorador; la pantalla gira bien de vertical a horizontal; la campana avisa de actualizaciones; el toque en Configuración ya desplaza sin mover el cuadro de foco; estrella por fila en los canales en vivo; el número del inicio ya avanza con cada versión. Limpieza interna: sin diagnóstico de secciones."
   },
   "tv": {
-    "version": "1.99",
-    "notes": "Estrella por fila, como la app original: cada canal muestra su ☆ en la lista del inicio y en la del reproductor; con → sobre la fila llegas a su estrella y OK la prende o apaga en el lugar («★ Canal añadido a favoritos»). Tus favoritos actuales se conservan. Incluye la 1.98 (lista de ★ Favoritos completa) y el colchón HLS de la 1.96 contra las caídas de la señal."
+    "version": "2.00",
+    "notes": "Sin filas de género sueltas en Película: los títulos sin categoría ya no crean filas de Action, Documentary, Biography o Drama; van a «Más películas». «Ver más» sigue abriendo la sección. Incluye la 1.99 (estrella por fila) y la 1.98 (lista de ★ Favoritos completa)."
   },
   "kodi": {
     "version": "1.1.3",
