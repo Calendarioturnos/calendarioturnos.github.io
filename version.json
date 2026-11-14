@@ -1,14 +1,14 @@
 {
-  "version": "1.77",
+  "version": "1.78",
   "releaseDate": "14/11/2026",
-  "changelog": "El héroe ya no se calcula en local: WenuTV pide al portal el banner curado (getRecommends, como Guardian/Xuper Android) y Película arranca con La Mangosta y La Odisea en el orden del servidor; si el portal no lo entrega, queda el héroe calculado de la 1.76.",
+  "changelog": "Corrección a la 1.77: el método getRecommends no estaba registrado como servicio (index.js) y el front caía al héroe calculado; ahora sí llega al portal y Película arranca con el banner curado (La Mangosta y La Odisea en el orden del servidor).",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.77",
-    "code": 87,
+    "version": "1.78",
+    "code": 88,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "El héroe ya no se calcula en local: WenuTV pide al portal el banner curado (getRecommends, como Guardian/Xuper Android) y Película arranca con La Mangosta y La Odisea en el orden del servidor; si el portal no lo entrega, queda el héroe calculado de la 1.76."
+    "notes": "Corrección a la 1.77: el método getRecommends no estaba registrado como servicio (index.js) y el front caía al héroe calculado; ahora sí llega al portal y Película arranca con el banner curado (La Mangosta y La Odisea en el orden del servidor)."
   },
   "tv": {
     "version": "1.99",
