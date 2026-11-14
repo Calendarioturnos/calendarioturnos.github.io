@@ -1,14 +1,14 @@
 {
-  "version": "1.71",
-  "releaseDate": "10/11/2026",
-  "changelog": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla.",
+  "version": "1.72",
+  "releaseDate": "14/11/2026",
+  "changelog": "El héroe y las secciones siguen el orden del portal, como Xuper: La Odisea sale arriba en Película; antes el orden por fecha la enterraba aunque estuviera en el catálogo y saliera en la búsqueda.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.71",
-    "code": 81,
+    "version": "1.72",
+    "code": 82,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "El botón «Actualizar ahora» ya no abre el navegador: la actualización se descarga dentro de la app y queda en tu carpeta Descargas; cuando termine, toca la notificación para instalarla."
+    "notes": "El héroe y las secciones siguen el orden del portal, como Xuper: La Odisea sale arriba en Película; antes el orden por fecha la enterraba aunque estuviera en el catálogo y saliera en la búsqueda."
   },
   "tv": {
     "version": "1.99",
