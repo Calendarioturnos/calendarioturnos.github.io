@@ -1,21 +1,21 @@
 {
-  "version": "1.83",
+  "version": "1.85",
   "releaseDate": "14/11/2026",
-  "changelog": "Categorías del inicio iguales a las del explorador; la pantalla gira bien de vertical a horizontal; la campana avisa de actualizaciones; el toque en Configuración ya desplaza sin mover el cuadro de foco; estrella por fila en los canales en vivo; el número del inicio ya avanza con cada versión. Limpieza interna: sin diagnóstico de secciones.",
+  "changelog": "Canales de DirecTV/ESPN (categoría «DirecTV / ESPN» después de Deportes); los canales 24/7 se cortan y saltan menos; los addons guardados se actualizan solos.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.83",
-    "code": 137,
+    "version": "1.85",
+    "code": 139,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Categorías del inicio iguales a las del explorador; la pantalla gira bien de vertical a horizontal; la campana avisa de actualizaciones; el toque en Configuración ya desplaza sin mover el cuadro de foco; estrella por fila en los canales en vivo; el número del inicio ya avanza con cada versión. Limpieza interna: sin diagnóstico de secciones."
+    "notes": "Canales de DirecTV/ESPN (categoría «DirecTV / ESPN» después de Deportes); los canales 24/7 se cortan y saltan menos; los addons guardados se actualizan solos."
   },
   "tv": {
     "version": "2.3.3",
     "notes": "El banner de Destacados y Película ya muestra las películas nuevas (La Odisea, Resident Evil) con sus portadas; aparece 2026 en las categorías, en el mismo orden que el APK; «Ver más» abre la ventana con todas las categorías; filtro completo (Tipo, Género, Año, País y Audio) desde el embudo y desde el explorador. Incluye la 2.3 (canales 24/7 sin cortes y lista DirecTV/ESPN) y la 2.00 (sin filas de género sueltas)."
   },
   "kodi": {
-    "version": "1.1.3",
-    "notes": "Versión actual del complemento para Kodi (con año y fecha en la ficha de películas)."
+    "version": "1.1.5",
+    "notes": "Canales de DirecTV/ESPN (categoría «DirecTV / ESPN» después de Deportes)."
   }
 }
