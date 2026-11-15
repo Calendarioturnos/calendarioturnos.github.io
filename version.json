@@ -10,6 +10,12 @@
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
     "notes": "Canales de DirecTV/ESPN (categoría «DirecTV / ESPN» después de Deportes); los canales 24/7 se cortan y saltan menos; los addons guardados se actualizan solos."
   },
+  "apk32": {
+    "version": "1.93",
+    "code": 147,
+    "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
+    "notes": "Versión para TV box (32 bits): el control se mueve bien por los menús, la vista previa del canal en vivo se alcanza con el control y OK la pone en pantalla completa, la estrella agrega favoritos en la lista, mantener OK abre el menú (Favoritos, Filtrar, Anterior, Bloquear, Guía EPG, Fluido) y el inicio carga más rápido. Incluye la 1.85 (DirecTV/ESPN, canales 24/7 sin cortes y addons que se actualizan solos)."
+  },
   "tv": {
     "version": "2.3.3",
     "notes": "El banner de Destacados y Película ya muestra las películas nuevas (La Odisea, Resident Evil) con sus portadas; aparece 2026 en las categorías, en el mismo orden que el APK; «Ver más» abre la ventana con todas las categorías; filtro completo (Tipo, Género, Año, País y Audio) desde el embudo y desde el explorador. Incluye la 2.3 (canales 24/7 sin cortes y lista DirecTV/ESPN) y la 2.00 (sin filas de género sueltas)."
