@@ -11,8 +11,8 @@
     "notes": "Categorías del inicio iguales a las del explorador; la pantalla gira bien de vertical a horizontal; la campana avisa de actualizaciones; el toque en Configuración ya desplaza sin mover el cuadro de foco; estrella por fila en los canales en vivo; el número del inicio ya avanza con cada versión. Limpieza interna: sin diagnóstico de secciones."
   },
   "tv": {
-    "version": "2.00",
-    "notes": "Sin filas de género sueltas en Película: los títulos sin categoría ya no crean filas de Action, Documentary, Biography o Drama; van a «Más películas». «Ver más» sigue abriendo la sección. Incluye la 1.99 (estrella por fila) y la 1.98 (lista de ★ Favoritos completa)."
+    "version": "2.3.3",
+    "notes": "Héroe del portal (getRecommends): Destacados y Película muestran los estrenos (La Odisea, Resident Evil) con sus portadas; aparece 2026 en las categorías (getHome + preservación de filas) en el mismo orden que el APK; «Ver más» abre la ventana con todas las categorías; filtro completo (Tipo/Género/Año/País/Audio) desde el embudo y «Filtrar» arriba en el explorador. Incluye la 2.3 (port de Cristian 3.1.6: arreglo 24/7, ESPN/DirecTV, diagnóstico, refresco de addons) y la 2.00 (sin filas de género sueltas)."
   },
   "kodi": {
     "version": "1.1.3",
