@@ -17,8 +17,8 @@
     "notes": "Versión para TV box (32 bits): el control se mueve bien por los menús, la vista previa del canal en vivo se alcanza con el control y OK la pone en pantalla completa, la estrella agrega favoritos en la lista, mantener OK abre el menú (Favoritos, Filtrar, Anterior, Bloquear, Guía EPG, Fluido) y el inicio carga más rápido. Incluye la 1.85 (DirecTV/ESPN, canales 24/7 sin cortes y addons que se actualizan solos)."
   },
   "tv": {
-    "version": "2.3.3",
-    "notes": "El banner de Destacados y Película ya muestra las películas nuevas (La Odisea, Resident Evil) con sus portadas; aparece 2026 en las categorías, en el mismo orden que el APK; «Ver más» abre la ventana con todas las categorías; filtro completo (Tipo, Género, Año, País y Audio) desde el embudo y desde el explorador. Incluye la 2.3 (canales 24/7 sin cortes y lista DirecTV/ESPN) y la 2.00 (sin filas de género sueltas)."
+    "version": "2.3.4",
+    "notes": "Filtro «Todos» y «★ Favoritos» arriba de la lista de canales: desde la vista previa, Derecha te deja en el filtro y Abajo bajas a la lista. Los canales en vivo se vuelven a cargar al elegirlos. Incluye la 2.3.3 (banner con estrenos, 2026 en categorías, «Ver más» y filtro completo)."
   },
   "kodi": {
     "version": "1.1.5",
