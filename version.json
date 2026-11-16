@@ -21,7 +21,7 @@
     "notes": "Filtro «Todos» y «★ Favoritos» arriba de la lista de canales: desde la vista previa, Derecha te deja en el filtro y Abajo bajas a la lista. Los canales en vivo se vuelven a cargar al elegirlos. Incluye la 2.3.3 (banner con estrenos, 2026 en categorías, «Ver más» y filtro completo)."
   },
   "kodi": {
-    "version": "1.1.5",
-    "notes": "Canales de DirecTV/ESPN (categoría «DirecTV / ESPN» después de Deportes)."
+    "version": "1.1.6",
+    "notes": "«★ Favoritos» dentro de «TV en vivo»: muestra solo tus canales favoritos sin salir de ahí. Incluye la 1.1.5 (canales de DirecTV/ESPN)."
   }
 }
