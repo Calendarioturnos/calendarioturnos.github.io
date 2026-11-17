@@ -17,8 +17,8 @@
     "notes": "Las mismas mejoras del teléfono en el box: el filtro abre al instante, el diagnóstico separa los canales del portal y los de las listas M3U, y el crédito en Sobre nosotros. Incluye la 1.94 (píldoras «Todos» y «★ Favoritos» arriba de la lista de canales y recarga de canales en vivo)."
   },
   "tv": {
-    "version": "2.3.4",
-    "notes": "Filtro «Todos» y «★ Favoritos» arriba de la lista de canales: desde la vista previa, Derecha te deja en el filtro y Abajo bajas a la lista. Los canales en vivo se vuelven a cargar al elegirlos. Incluye la 2.3.3 (banner con estrenos, 2026 en categorías, «Ver más» y filtro completo)."
+    "version": "2.3.5",
+    "notes": "El filtro ahora abre al instante; antes tardaba varios segundos la primera vez. En Sobre nosotros quedó el crédito: «WenuTV es un port de Xuper TV, basado en el trabajo de cristiancodev.» Incluye la 2.3.4 (píldoras «Todos» y «★ Favoritos» arriba de la lista de canales y recarga de canales en vivo)."
   },
   "kodi": {
     "version": "1.1.6",
