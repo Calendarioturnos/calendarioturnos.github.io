@@ -27,7 +27,8 @@
 body{margin:0;background:#f6f4ef;color:#1d1d1b;font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;line-height:1.5}
 header{background:linear-gradient(#d66422,#963e10);color:#fff;text-align:center;padding:max(34px,env(safe-area-inset-top)) 22px 38px}
 .portal{background:linear-gradient(160deg,#16215a 0%,#1b2a6b 45%,#2f6fd0 100%);color:#fff;text-align:center;padding:30px 22px 26px}
-.portal .logo{width:64px;height:64px;margin:0 auto;border-radius:18px;background:#fff;color:#1b2a6b;font-size:38px;font-weight:800;display:flex;align-items:center;justify-content:center}
+.portal .logo{width:64px;height:64px;margin:0 auto}
+.portal .logo svg{display:block;width:100%;height:100%}
 .portal h1{margin:12px 0 4px;font-size:30px}
 .portal p{margin:0 auto;max-width:430px;color:#dbe8ff}
 .portal .pills{margin-top:14px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
@@ -123,7 +124,7 @@ html{scroll-behavior:smooth}
 </head>
 <body>
 <div class="portal">
-  <div class="logo">W</div>
+  <div class="logo"><svg viewBox="0 0 100 100" role="img" aria-label="Logo de Wenu Portal"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2a6b"/><stop offset="1" stop-color="#7ec3f2"/></linearGradient></defs><rect width="100" height="100" rx="20" fill="#fff"/><circle cx="50" cy="50" r="34.7" fill="url(#sky)"/><circle cx="50" cy="50" r="34.7" fill="none" stroke="#e3c97a" stroke-width="2"/><polygon points="50,20.7 52.1,25.8 57.6,26.2 53.4,29.8 54.7,34.8 50,32.3 45.3,34.8 46.6,29.8 42.4,26.2 47.9,25.8" fill="#ffd15c"/><text x="50" y="62" text-anchor="middle" font-size="40" font-weight="800" font-family="Arial,Helvetica,sans-serif" fill="#fff">W</text></svg></div>
   <h1>Wenu Portal</h1>
   <p>Tus aplicaciones en un solo lugar</p>
   <div class="pills"><a class="pill" href="#turnos">Wenu Turnos</a><a class="pill" href="#wenutv">WenuTV</a></div>
