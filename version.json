@@ -1,20 +1,20 @@
 {
-  "version": "1.85",
-  "releaseDate": "14/11/2026",
-  "changelog": "Canales de DirecTV/ESPN (categoría «DirecTV / ESPN» después de Deportes); los canales 24/7 se cortan y saltan menos; los addons guardados se actualizan solos.",
+  "version": "1.96",
+  "releaseDate": "17/11/2026",
+  "changelog": "El filtro (el ícono del embudo) ahora abre al instante; antes tardaba varios segundos la primera vez. Incluye la 1.95 (el diagnóstico muestra por separado los canales del portal y los de las listas M3U).",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.85",
-    "code": 139,
+    "version": "1.96",
+    "code": 151,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Canales de DirecTV/ESPN (categoría «DirecTV / ESPN» después de Deportes); los canales 24/7 se cortan y saltan menos; los addons guardados se actualizan solos."
+    "notes": "El filtro (el ícono del embudo) ahora abre al instante; antes tardaba varios segundos la primera vez. Incluye la 1.95 (el diagnóstico muestra por separado los canales del portal y los de las listas M3U)."
   },
   "apk32": {
-    "version": "1.93",
-    "code": 147,
+    "version": "1.95",
+    "code": 149,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "Versión para TV box (32 bits): el control se mueve bien por los menús, la vista previa del canal en vivo se alcanza con el control y OK la pone en pantalla completa, la estrella agrega favoritos en la lista, mantener OK abre el menú (Favoritos, Filtrar, Anterior, Bloquear, Guía EPG, Fluido) y el inicio carga más rápido. Incluye la 1.85 (DirecTV/ESPN, canales 24/7 sin cortes y addons que se actualizan solos)."
+    "notes": "Las mismas mejoras del teléfono en el box: el filtro abre al instante, el diagnóstico separa los canales del portal y los de las listas M3U, y el crédito en Sobre nosotros. Incluye la 1.94 (píldoras «Todos» y «★ Favoritos» arriba de la lista de canales y recarga de canales en vivo)."
   },
   "tv": {
     "version": "2.3.4",
