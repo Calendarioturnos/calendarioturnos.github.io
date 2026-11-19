@@ -1,20 +1,20 @@
 {
-  "version": "1.96",
-  "releaseDate": "17/11/2026",
-  "changelog": "El filtro (el ícono del embudo) ahora abre al instante; antes tardaba varios segundos la primera vez. Incluye la 1.95 (el diagnóstico muestra por separado los canales del portal y los de las listas M3U).",
+  "version": "1.97",
+  "releaseDate": "19/11/2026",
+  "changelog": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra se mueve y muestra a dónde vas. Todo en español (PELÍCULAS, hora 24 h, Actores, géneros) y títulos largos con «…».",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.96",
-    "code": 151,
+    "version": "1.97",
+    "code": 152,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "El filtro (el ícono del embudo) ahora abre al instante; antes tardaba varios segundos la primera vez. Incluye la 1.95 (el diagnóstico muestra por separado los canales del portal y los de las listas M3U)."
+    "notes": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra se mueve y muestra a dónde vas. Todo en español (PELÍCULAS, hora 24 h, Actores, géneros) y títulos largos con «…»."
   },
   "apk32": {
-    "version": "1.95",
-    "code": 149,
+    "version": "1.96",
+    "code": 153,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "Las mismas mejoras del teléfono en el box: el filtro abre al instante, el diagnóstico separa los canales del portal y los de las listas M3U, y el crédito en Sobre nosotros. Incluye la 1.94 (píldoras «Todos» y «★ Favoritos» arriba de la lista de canales y recarga de canales en vivo)."
+    "notes": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra se mueve y muestra a dónde vas. Todo en español (PELÍCULAS, hora 24 h, Actores, géneros) y títulos largos con «…». En el box, la selección se marca en amarillo y se activa solo un modo liviano si el equipo tiene poca memoria."
   },
   "tv": {
     "version": "2.3.6",
