@@ -1,20 +1,20 @@
 {
-  "version": "1.97",
+  "version": "1.98",
   "releaseDate": "19/11/2026",
-  "changelog": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra se mueve y muestra a dónde vas. Todo en español (PELÍCULAS, hora 24 h, Actores, géneros) y títulos largos con «…».",
+  "changelog": "DEPORTES ya no pierde sus pestañas al girar el teléfono. EXPLORAR ahora funciona como en la tele: plataformas y colecciones, cada una con sus títulos.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.97",
-    "code": 152,
+    "version": "1.98",
+    "code": 154,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra se mueve y muestra a dónde vas. Todo en español (PELÍCULAS, hora 24 h, Actores, géneros) y títulos largos con «…»."
+    "notes": "DEPORTES ya no pierde sus pestañas al girar el teléfono. EXPLORAR ahora funciona como en la tele: plataformas y colecciones, cada una con sus títulos."
   },
   "apk32": {
-    "version": "1.96",
-    "code": 153,
+    "version": "1.97",
+    "code": 155,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra se mueve y muestra a dónde vas. Todo en español (PELÍCULAS, hora 24 h, Actores, géneros) y títulos largos con «…». En el box, la selección se marca en amarillo y se activa solo un modo liviano si el equipo tiene poca memoria."
+    "notes": "EXPLORAR ahora funciona como en la tele: plataformas y colecciones, cada una con sus títulos, todo con el control remoto. DEPORTES mantiene sus pestañas Wenu, DirecTV/ESPN, Mundo y ★."
   },
   "tv": {
     "version": "2.3.6",
