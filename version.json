@@ -1,20 +1,20 @@
 {
-  "version": "1.98",
-  "releaseDate": "19/11/2026",
-  "changelog": "DEPORTES ya no pierde sus pestañas al girar el teléfono. EXPLORAR ahora funciona como en la tele: plataformas y colecciones, cada una con sus títulos.",
+  "version": "1.99",
+  "releaseDate": "20/11/2026",
+  "changelog": "La sesión queda guardada en el equipo: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más». La descarga de la actualización muestra el avance real, con porcentaje y MB, y al terminar puedes instalarla desde el mismo aviso.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.98",
-    "code": 154,
+    "version": "1.99",
+    "code": 158,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "DEPORTES ya no pierde sus pestañas al girar el teléfono. EXPLORAR ahora funciona como en la tele: plataformas y colecciones, cada una con sus títulos."
+    "notes": "La sesión queda guardada en el equipo: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más». La descarga de la actualización muestra el avance real, con porcentaje y MB, y al terminar puedes instalarla desde el mismo aviso."
   },
   "apk32": {
-    "version": "1.97",
-    "code": 155,
+    "version": "1.98",
+    "code": 159,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "EXPLORAR ahora funciona como en la tele: plataformas y colecciones, cada una con sus títulos, todo con el control remoto. DEPORTES mantiene sus pestañas Wenu, DirecTV/ESPN, Mundo y ★."
+    "notes": "La sesión queda guardada en el box: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más», todo con el control remoto. La descarga de la actualización muestra el avance real, con porcentaje y MB."
   },
   "tv": {
     "version": "2.3.6",
